@@ -1,0 +1,5 @@
+{
+  "name": "Smart Trading Signal Validator",
+  "description": "An AI-powered trading tool that validates reversal patterns using liquidity sweeps, multi-timeframe confluence, and volume anomalies. It calculates a mathematical probability score to filter out retail traps.",
+  "requestFramePermissions": []
+}
